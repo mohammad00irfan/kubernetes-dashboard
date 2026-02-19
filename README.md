@@ -7,7 +7,7 @@ A modern, responsive Kubernetes dashboard built with Next.js and shadcn/ui. Moni
 
 ## 🐳 Docker Hub
 
-[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-harshhaareddy%2Fkubernetes--dashboard-blue?style=for-the-badge&logo=docker)](https://hub.docker.com/r/harshhaareddy/kubernetes-dashboard)
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-mohammad00irfan%2Fkubernetes--dashboard-blue?style=for-the-badge&logo=docker)](https://hub.docker.com/r/mohammad00irfan/kubernetes-dashboard)
 
 ### Quick Start
 ```bash
