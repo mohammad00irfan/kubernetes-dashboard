@@ -12,7 +12,7 @@ A modern, responsive Kubernetes dashboard built with Next.js and shadcn/ui. Moni
 ### Quick Start
 ```bash
 # Pull and run the dashboard
-docker run -p 3000:3000 harshhaareddy/kubernetes-dashboard:latest
+docker run -p 3000:3000 mohammad00irfan/kubernetes-dashboard:latest
 
 # Access at http://localhost:3000
 ```
@@ -22,7 +22,7 @@ docker run -p 3000:3000 harshhaareddy/kubernetes-dashboard:latest
 ### Option 1: Docker (Recommended)
 ```bash
 # Pull and run with Docker Hub image
-docker run -p 3000:3000 harshhaareddy/kubernetes-dashboard:latest
+docker run -p 3000:3000 mohammad00irfan/kubernetes-dashboard:latest
 
 # Or with Docker Compose
 docker-compose up -d
